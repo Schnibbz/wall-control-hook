@@ -47,4 +47,10 @@ A strong, plug-and-play hook for **Wall Control slotted steel pegboard**. No scr
 ## Credit
 
 The slot-catch profile comes from the **[DDD Printable Wall Control System](https://github.com/aderusha/DDD-Printable-Wall-Control-System)**
-by Allen Derusha (MIT). The two-slot body, the locking lever and the arm are original. MIT licensed; see `LICENSE`.
+by Allen Derusha (MIT). The two-slot body, the locking lever and the arm are original.
+
+## License
+
+**[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)**: share and remix with credit, **not for
+commercial use**, and remixes must use the same license. The DDD slot-catch profile stays under its MIT license; the
+notice is in `LICENSE`.
