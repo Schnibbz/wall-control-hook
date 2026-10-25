@@ -1,28 +1,32 @@
-<p align="center"><a href="https://github.com/Schnibbz"><img src="images/yeti-strength-banner.png" alt="YETI STRENGTH: home gym hardware, designed in the USA" width="100%"></a></p>
+<p align="center"><a href="https://github.com/Schnibbz"><img src="images/ys-header-wall-control-hook.png" alt="No. 02, locking hooks for Wall Control pegboard, v1.1. YETI STRENGTH, designed by Schnibbz" width="100%"></a></p>
 
-# Wall Control Locking Hooks
+Hooks for **Wall Control slotted steel pegboard** that clip in and lock. No screws, no pins.
 
-![Black and red hooks on a Wall Control panel](images/wall-control-hook-hero.jpg)
+<table>
+<tr>
+<td width="50%"><img src="images/wall-control-hook-hero.jpg" alt="Standard hooks in black and red on a Wall Control panel" width="100%"></td>
+<td width="50%"><img src="images/wall-control-hook-new-variants.jpg" alt="Long 3.75 inch hook in black and 3-wide bar-adapter hook in red" width="100%"></td>
+</tr>
+<tr>
+<td align="center"><sub>Standard 2.5"</sub></td>
+<td align="center"><sub>Long 3.75" and 3-Wide Bar Adapter, new in v1.1</sub></td>
+</tr>
+</table>
 
-Strong, plug-and-play hooks for **Wall Control slotted steel pegboard**. No screws, no pins: they clip in and lock.
-
-- **Hook several slots side by side** (1" apart), so they can't twist or rock.
-- **Lock in place.** A small barbed nub drops into the top of the slot when you seat the hook, so a bump from below won't
-  knock it off.
-- **Rounded arm and lip**, so nothing sharp catches a strap or handle.
-- Sized for **powder-coated** Wall Control panels (about 1 mm steel).
+- Each hook grabs several slots side by side, 1" apart, so it can't twist or rock.
+- A small barbed nub drops into the top of the slot when you seat the hook. A bump from below won't knock it off.
+- The arm and lip are rounded, so nothing sharp catches a strap or handle.
+- Sized for powder-coated Wall Control panels, about 1 mm steel.
 
 ## Pick your hook
 
-| Hook | What it's for | Load | Print (X1C, PETG) |
-|---|---|---|---|
-| **Standard 2.5"** | Cable attachments, handles, straps, small tools. Two slots wide. | 2–4 lb | ~1 h 08 m · ~21 g |
-| **Long 3.75"** 🆕 | Same hook with a longer arm, for longer or several attachments. Same 8° rise, lip and lock. | 2–4 lb | ~1 h 20 m · ~22 g |
-| **3-Wide Bar Adapter** 🆕 | Anything with a **2" barbell-sleeve hole**: row handles, landmine adapters. Three slots wide. Flat 1"-wide peg with a 1" radius top that matches the 2" bore, and a 1/2" lip that keeps it on. | up to ~10 lb | ~1 h 52 m · ~41 g |
+| Hook | What it's for | Load | Print (X1C, PETG) | Status |
+|---|---|---|---|---|
+| **Standard 2.5"** | Cable attachments, handles, straps, small tools. Two slots wide. | 2–4 lb | ~1 h 08 m · ~21 g | Tested on a wall |
+| **Long 3.75"** | Same hook with a longer arm, for longer attachments or several at once. Same 8° rise, lip and lock. | 2–4 lb | ~1 h 20 m · ~22 g | New in v1.1, not tested yet |
+| **3-Wide Bar Adapter** | Anything with a 2" barbell-sleeve hole, like row handles and landmine adapters. Three slots wide. A flat 1"-wide peg with a 1" radius top that matches the 2" bore, and a 1/2" lip that keeps it on. | up to ~10 lb | ~1 h 52 m · ~41 g | New in v1.1, not tested yet |
 
-🆕 = new in v1.1. The first prints are on the printer right now. The Standard hook is the one that's been tested on a wall.
-
-![Long 3.75" hook (black) and 3-wide bar-adapter hook (red)](images/wall-control-hook-new-variants.jpg)
+First prints of the two new hooks are on the printer now. Until they've been hung and loaded, the Standard hook is the only one tested on a wall.
 
 ## Download
 
@@ -69,6 +73,6 @@ by Allen Derusha (MIT). The multi-slot bodies, the locking lever, the arms and t
 commercial use**, and remixes must use the same license. The DDD slot-catch profile stays under its MIT license; the
 notice is in `LICENSE`.
 
----
+<br>
 
-<p align="center"><b>YETI STRENGTH</b> · designed by <a href="https://github.com/Schnibbz">Schnibbz</a> · more home gym gear on the <a href="https://github.com/Schnibbz">home page</a></p>
+<p align="center"><a href="https://github.com/Schnibbz"><img src="images/ys-footer.png" alt="YETI STRENGTH. Schnibbz, designed in the USA." width="100%"></a></p>
