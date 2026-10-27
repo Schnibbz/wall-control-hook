@@ -1,5 +1,7 @@
 <p align="center"><a href="https://github.com/Schnibbz"><img src="images/ys-header-wall-control-hook.png" alt="No. 02, locking hooks for Wall Control pegboard, v1.1. YETI STRENGTH, designed by Schnibbz" width="100%"></a></p>
 
+<p align="center"><a href="https://github.com/Schnibbz"><b>← YETI STRENGTH home</b></a> · all gear by <a href="https://github.com/Schnibbz">Schnibbz</a></p>
+
 Hooks for **Wall Control slotted steel pegboard** that clip in and lock. No screws, no pins.
 
 <table>
